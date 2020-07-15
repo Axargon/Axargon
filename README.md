@@ -18,4 +18,4 @@ At the moment working on my second Bacharel´s degree to became a Data Scientist
 ## Projects:
 Check out my published projects:
 
-* **[Análise dos Dados do Airbnb - Toronto](https://github.com/Axargon/ds_portfolio/blob/master/Analisando_os_Dados_do_Airbnb_Toronto.ipynb)**
+* **[Exploratory Analysis of Airbnb data - Toronto](https://github.com/Axargon/ds_portfolio_In/blob/master/Analysing_Airbnb_Data_for_Toronto.ipynb)**
