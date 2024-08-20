@@ -4,10 +4,8 @@
 
 # Alex Arantes Gonçalves
 
-
-As a experienced Science Application professional with more than 17 years of experience I combine analytical skills, ability to work in team environments, and attention to details. Having recentely succesfully directed my career towards Data Analysis I have been acquiring the skills to extract, transform, load data into diverse sorts of data structures, and harnessing them to build data visualization dashboards.
-
-At the moment working on my second Bacharel´s degree to became a Data Scientist at Universidade Virtual do Estado de São Paulo, I already own Bacharel in Science and Technology degree by Universidade Federal do ABC, one of the most prestigious Universities in Brazil.
+Cientista de dados apaixonado por transformar dados em insights acionáveis. Com mais de 17 anos em ciências aplicadas, desenvolvo soluções personalizadas para otimizar processos e impulsionar o crescimento de negócios em diversos setores. Experiência em prevenção de fraudes.
+Formado em Bacharel de Ciência e Tecnologia pela Universidade Federal do grande ABC, atualmente trabalhando em minha segunda graduação em ciência de dados pelo Senai Paulo Skaff em São Caetano do Sul
 
 **Background in:** Data vizualization, integration, Python, and taken my first stps towards Data Science.
 
