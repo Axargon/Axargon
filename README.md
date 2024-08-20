@@ -11,7 +11,7 @@ Formado em Bacharel de Ciência e Tecnologia pela Universidade Federal do grande
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/alexarantesgoncalves/)
+* [LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)
 
 ## Projects:
 Check out my published projects:
