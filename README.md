@@ -3,8 +3,8 @@
 </p>
 
 # Alex Arantes Gonçalves
-<sub>[LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)</sub>
 <sub>*Bacharel em Ciência e Tecnologia UFABC, estudante de Ciência de dados pelo SENAI*</sub>
+<sub>[LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)</sub>
 
 Cientista de dados apaixonado por transformar dados em insights acionáveis. Com mais de 17 anos em ciências aplicadas, desenvolvo soluções personalizadas para otimizar processos e impulsionar o crescimento de negócios em diversos setores. Experiência em prevenção de fraudes.
 Formado em Bacharel de Ciência e Tecnologia pela Universidade Federal do grande ABC, atualmente trabalhando em minha segunda graduação em ciência de dados pelo Senai Paulo Skaff em São Caetano do Sul
