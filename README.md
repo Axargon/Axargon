@@ -3,11 +3,13 @@
 </p>
 
 # Alex Arantes Gonçalves
+<sub>*Bacharel em Ciência e Tecnologia UFABC, estudante de Ciência de dados pelo SENAI*</sub>
+
 [![autor](https://img.shields.io/badge/autor-axargon-blue)](https://www.linkedin.com/in/alex-a-goncalves/)
 [![email](https://img.shields.io/badge/projeto-visualiza%C3%A7%C3%A3o%20de%20dados-blue)](axargon@gmail.com) 
 [![indefinido](https://img.shields.io/badge/tecnologia-powerBi-blue)](https://powerbi.microsoft.com/en-us/) 
-[![Indeterminado](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](axargon@gmail.com)
-<sub>*Bacharel em Ciência e Tecnologia UFABC, estudante de Ciência de dados pelo SENAI*</sub>
+[![Indeterminado](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](axargon@gmail.com)
+
 
 Cientista de dados apaixonado por transformar dados em insights acionáveis. Com mais de 17 anos em ciências aplicadas, desenvolvo soluções personalizadas para otimizar processos e impulsionar o crescimento de negócios em diversos setores. Experiência em prevenção de fraudes.
 Formado em Bacharel de Ciência e Tecnologia pela Universidade Federal do grande ABC, atualmente trabalhando em minha segunda graduação em ciência de dados pelo Senai Paulo Skaff em São Caetano do Sul
