@@ -19,6 +19,6 @@ Alguns dos meus projetos:
 
  
  
- **Links:**
- <sub>[LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)</sub>
+ *Links:*
+ * <sub>[LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)</sub>
 
