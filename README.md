@@ -17,5 +17,7 @@ Alguns dos meus projetos:
 * **[Visualização de Dados Power BI ](https://github.com/Axargon/data_visualization/blob/master/README.md)**
 
 
+
+
 * **Links:**
 * [LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)
