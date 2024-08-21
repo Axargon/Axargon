@@ -10,12 +10,12 @@ Formado em Bacharel de Ciência e Tecnologia pela Universidade Federal do grande
 
 **Experiência em:** Visualização de dados, Integração, Python, Ciência de dados.
 
-**Links:**
-
-* [LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)
-
 ## Projetos:
 Alguns dos meus projetos:
 
 * **[Análise Exploratória dados AirBnB - Toronto](https://github.com/Axargon/ds_portfolio_In/blob/master/Analysing_Airbnb_Data_for_Toronto.ipynb)**
 * **[Visualização de Dados Power BI ](https://github.com/Axargon/data_visualization/blob/master/README.md)**
+
+
+* **Links:**
+* [LinkedIn](https://www.linkedin.com/in/alex-a-goncalves/)
