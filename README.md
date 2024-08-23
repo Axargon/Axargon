@@ -7,7 +7,7 @@
 
 [![autor](https://img.shields.io/badge/autor-axargon-blue)](https://www.linkedin.com/in/alex-a-goncalves/)
 [![email](https://img.shields.io/badge/Atividades-Senai-red)](https://github.com/Axargon/AtividadesSenai/tree/main) 
-[![indefinido](https://img.shields.io/badge/tecnologia-powerBi-blue)](https://powerbi.microsoft.com/en-us/) 
+[![indefinido](https://img.shields.io/badge/Atividades-UFABC-green)](https://github.com/Axargon/UFABC-ML-2018) 
 [![Indeterminado](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](axargon@gmail.com)
 
 
