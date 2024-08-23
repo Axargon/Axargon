@@ -6,7 +6,7 @@
 <sub>*Bacharel em Ciência e Tecnologia UFABC, estudante de Ciência de dados pelo SENAI*</sub>
 
 [![autor](https://img.shields.io/badge/autor-axargon-blue)](https://www.linkedin.com/in/alex-a-goncalves/)
-[![email](https://img.shields.io/badge/projeto-visualiza%C3%A7%C3%A3o%20de%20dados-blue)](axargon@gmail.com) 
+[![email](https://img.shields.io/badge/Atividades-Academicas-blue)](axargon@gmail.com) 
 [![indefinido](https://img.shields.io/badge/tecnologia-powerBi-blue)](https://powerbi.microsoft.com/en-us/) 
 [![Indeterminado](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](axargon@gmail.com)
 
