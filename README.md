@@ -8,7 +8,7 @@
 [![autor](https://img.shields.io/badge/autor-axargon-blue)](https://www.linkedin.com/in/alex-a-goncalves/)
 [![email](https://img.shields.io/badge/Atividades-Senai-red)](https://github.com/Axargon/AtividadesSenai/tree/main) 
 [![indefinido](https://img.shields.io/badge/Atividades-UFABC-darkgreen)](https://github.com/Axargon/UFABC-ML-2018) 
-[![Indeterminado](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)](axargon@gmail.com)
+[![Indeterminado](https://img.shields.io/badge/desafios-Uri-yellow.svg?style=flat)](https://github.com/Axargon/URI_Linguagem_C)
 
 
 Cientista de dados apaixonado por transformar dados em insights acionáveis. Com mais de 17 anos em ciências aplicadas, desenvolvo soluções personalizadas para otimizar processos e impulsionar o crescimento de negócios em diversos setores. Experiência em prevenção de fraudes.
